@@ -1,0 +1,43 @@
+ .Feedback {
+  padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-content: space-around;
+    flex-wrap: wrap;
+  
+}
+
+.FeedbackTitle {
+  padding: 10px;
+}
+
+.FeedbackButtonContainer {
+  padding: 7px;
+  
+}
+
+.FeedbackButtonContainer :last-child {
+  margin-right: 0px;
+}
+
+.FeedbackButton {
+  margin-right: 7px;
+}
+
+
+.FeedbackStatisticTitle {
+  padding: 10px;
+}
+
+.FeedbackStatisticList {
+  padding: 10px;
+}
+
+.FeedbackStatisticList :last-child {
+  margin-bottom: 0px;
+}
+
+.FeedbackStatisticItem {
+  margin-bottom: 5px;
+} 
